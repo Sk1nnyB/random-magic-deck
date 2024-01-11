@@ -13,7 +13,7 @@ var decks_6 = ["Hakbal", "Saturo", "Admiral Beckett Brass", "Zedru", "Ellivere",
 var decks_7 = ["Rin and Seri", "Tasha", "Estrid", "Illuna (Harrys)", "Anim Pakal", "Aminatou", "Kwain", "Kozilek", "Sisay", "Krenko", "Sefris", "Gisela"];
 var decks_8 = ["Sidisi", "Freyalise", "Okaun / Zndrsplt", "Rashmi", "Norin", "Ghysern Starn", "Davros", "Sloguurk"];
 var decks_9 = ["Tuvasa", "The Scarab God", "Meren", "Lord Windgrace"];
-var decks_10 = ["Miirym", "Scion", "Yarok", "Veyran", ""];
+var decks_10 = ["Miirym", "Scion", "Yarok", "Veyran"];
 var decks_11 = ["Jhoira", "Go outside."];
 
 
