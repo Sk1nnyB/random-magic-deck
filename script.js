@@ -35,6 +35,7 @@ document.getElementById('numberForm').addEventListener('submit', function(event)
         8: getRandomDeck(decks_8),
         9: getRandomDeck(decks_9),
         10: getRandomDeck(decks_10),
+        11: getRandomDeck(decks_11),
     };
 
     // Display the response
