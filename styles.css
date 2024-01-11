@@ -1,11 +1,26 @@
 body {
     font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
-    margin: 50px;
+    height: 100vh;
+    margin: 0;
+    background-image: url("dark_magic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #f0f0f0; 
+}
+
+.inputBox {
+    background-color: #854c82; 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
 }
 
 h1 {
-    color: #333;
+    color: #ffffff;
 }
 
 form {
@@ -19,4 +34,6 @@ label {
 #response {
     margin-top: 20px;
     font-weight: bold;
+    text-align: center;
+    color: #ffffff;
 }
