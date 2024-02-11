@@ -34,6 +34,7 @@ var effects = [
     "Add 3 mana of any one colour to your mana pool.",
     "You and target opponent become lovers (You each draw 3 cards).",
     "Return target card from your graveyard to your hand",
+    "Slime Against Humanity where X is the number of times this effect has happened this turn.",
     // Bad Ones
     "You cannot cast counterspells until your next turn.",
     "Target creature you control becomes goaded. If you control no creatures, get fucked.",
@@ -59,7 +60,8 @@ var effects = [
     "Increase or decrease the score of up to one deck of your choice on the dick rankings.",
     "Shuffle your graveyard into your library, then mill that many cards.",
     "Rock-paper-scissors an opponent. The winner gains 3 life, creates 3 mana of any one colour and puts 3 +1/+1 counters among creatures they control.",
-    "Players vote for the most annoying player this game; that player creates a loser role and attaches it to themselves (a player with a loser role is a loser)."
+    "Players vote for the most annoying player this game; that player creates a loser role and attaches it to themselves (a player with a loser role is a loser).",
+    "Each player votes for if a creature has drip. If that creature does have drip, the owner creates 2 treasure tokens."
 ]
 
 document.getElementById('numberForm').addEventListener('submit', function(event) {
