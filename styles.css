@@ -12,11 +12,19 @@ body {
     background-color: #f0f0f0; 
 }
 
-.inputBox {
+.deckBox {
     background-color: #854c82; 
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+.effectBox {
+    background-color: #854c82; 
+    padding: 20px;
+    margin-top: 20px; 
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
