@@ -16,7 +16,51 @@ var decks_9 = ["Tuvasa", "The Scarab God", "Meren", "Lord Windgrace"];
 var decks_10 = ["Miirym", "Scion", "Yarok", "Veyran"];
 var decks_11 = ["Jhoira", "Go outside."];
 
-var effects = ["Target player gets you a drink"];
+var effects = [
+    // Good Ones
+    "Discard your hand, then draw that many cards.",
+    "Create a 6/6 green dinosaur creature token with trample named Colossal Dreadmaw.",
+    "You win! (No seriously)",
+    "Create a token copy of Oko (the good one).",
+    "Draw a card.",
+    "Create a token copy of one of the cast of BG3.",
+    "Create a copy of Swords to Plowshares. You may cast it.",
+    "Create a copy of Brainstorm. You may cast it.",
+    "Create a copy of Phyrexian Arena. You may cast it.",
+    "Create a copy of Lightning Bolt. You may cast it.",
+    "Create a copy of Cultivate. You may cast it.",
+    "Create a copy of Sol Ring. You may cast it.",
+    "Tutor for a card, then each player votes on if that is a fair card to tutor for. If the vote passes or ties, keep it, otherwise shuffle it into your library.",
+    "Add 3 mana of any one colour to your mana pool.",
+    "You and target opponent become lovers (You each draw 3 cards).",
+    "Return target card from your graveyard to your hand",
+    // Bad Ones
+    "You cannot cast counterspells until your next turn.",
+    "Target creature you control becomes goaded. If you control no creatures, get fucked.",
+    "You lose! (lol).",
+    "Create a token copy of Tibalt (the shit one).",
+    "Sacrifice a permanent.",
+    "Gain 1 life.",
+    "Nothing happened? Ah well.",
+    "Destroy all creatures.",
+    "Goad all creatures.",
+    "Destroy all enchantments or artifacts.",
+    "Discard a card.",
+    "Balance. (the card)",
+    "You cannot cast spells this turn.",
+    "If you cast more than 3 spells this turn, stop it. (You cannot cast more than 3 spells this turn)",
+    // Funny Ones
+    "Chaos warp one of your permanents.",
+    "Compliment an opponent.",
+    "Insult an opponent or lose 3 life.",
+    "Target player gets you a drink.",
+    "Destroy target creature named Anim Pakal, otherwise reroll.",
+    "Starting from you, each player may put a card from their hand onto the battlefield. It is not cast.",
+    "Increase or decrease the score of up to one deck of your choice on the dick rankings.",
+    "Shuffle your graveyard into your library, then mill that many cards.",
+    "Rock-paper-scissors an opponent. The winner gains 3 life, creates 3 mana of any one colour and puts 3 +1/+1 counters among creatures they control.",
+    "Players vote for the most annoying player this game; that player creates a loser role and attaches it to themselves (a player with a loser role is a loser)."
+]
 
 document.getElementById('numberForm').addEventListener('submit', function(event) {
     event.preventDefault();
