@@ -61,7 +61,8 @@ var effects = [
     "Shuffle your graveyard into your library, then mill that many cards.",
     "Rock-paper-scissors an opponent. The winner gains 3 life, creates 3 mana of any one colour and puts 3 +1/+1 counters among creatures they control.",
     "Players vote for the most annoying player this game; that player creates a loser role and attaches it to themselves (a player with a loser role is a loser).",
-    "Each player votes for if a creature has drip. If that creature does have drip, the owner creates 2 treasure tokens."
+    "Each player votes for if a creature has drip. If that creature does have drip, the owner creates 2 treasure tokens.",
+    "Until your next turn, narrate the game as if you were on Game Knights."
 ]
 
 document.getElementById('numberForm').addEventListener('submit', function(event) {
