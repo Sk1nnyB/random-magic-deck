@@ -35,6 +35,8 @@ var effects = [
     "You and target opponent become lovers (You each draw 3 cards).",
     "Return target card from your graveyard to your hand",
     "Slime Against Humanity where X is the number of times this effect has happened this turn.",
+    "Swing (You must attack this turn), steal (steal a nonland permanent), plunder (sac a creature to draw two cards).",
+    "Create a Toy Boat token (3/3 with the funny).",
     // Bad Ones
     "You cannot cast counterspells until your next turn.",
     "Target creature you control becomes goaded. If you control no creatures, get fucked.",
@@ -62,7 +64,8 @@ var effects = [
     "Rock-paper-scissors an opponent. The winner gains 3 life, creates 3 mana of any one colour and puts 3 +1/+1 counters among creatures they control.",
     "Players vote for the most annoying player this game; that player creates a loser role and attaches it to themselves (a player with a loser role is a loser).",
     "Each player votes for if a creature has drip. If that creature does have drip, the owner creates 2 treasure tokens.",
-    "Until your next turn, narrate the game as if you were on Game Knights."
+    "Until your next turn, narrate the game as if you were on Game Knights.",
+    "Exchange graveyards with target opponent."
 ]
 
 document.getElementById('numberForm').addEventListener('submit', function(event) {
