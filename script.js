@@ -34,9 +34,10 @@ var effects = [
     "Add 3 mana of any one colour to your mana pool.",
     "You and target opponent become lovers (You each draw 3 cards).",
     "Return target card from your graveyard to your hand",
-    "Slime Against Humanity where X is the number of times this effect has happened this turn.",
+    "Slime Against Humanity where X is the number of times this effect has happened this game.",
     "Swing (You must attack this turn), steal (steal a nonland permanent), plunder (sac a creature to draw two cards).",
     "Create a Toy Boat token (3/3 with the funny).",
+    "Put an uno reverse card into your hand: (0 Mana, Instant, Counter target counterspell)",
     // Bad Ones
     "You cannot cast counterspells until your next turn.",
     "Target creature you control becomes goaded. If you control no creatures, get fucked.",
@@ -52,6 +53,7 @@ var effects = [
     "Balance. (the card)",
     "You cannot cast spells this turn.",
     "If you cast more than 3 spells this turn, stop it. (You cannot cast more than 3 spells this turn)",
+    "Unsleeve a card you own.",
     // Funny Ones
     "Chaos warp one of your permanents.",
     "Compliment an opponent.",
@@ -65,7 +67,8 @@ var effects = [
     "Players vote for the most annoying player this game; that player creates a loser role and attaches it to themselves (a player with a loser role is a loser).",
     "Each player votes for if a creature has drip. If that creature does have drip, the owner creates 2 treasure tokens.",
     "Until your next turn, narrate the game as if you were on Game Knights.",
-    "Exchange graveyards with target opponent."
+    "Exchange graveyards with target opponent.",
+    "Warp world. (The card)"
 ]
 
 document.getElementById('numberForm').addEventListener('submit', function(event) {
