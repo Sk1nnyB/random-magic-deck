@@ -19,9 +19,9 @@ Create a copy of Cultivate. You may cast it. | Unsleeve a card you own. | Rock-p
 Create a copy of Sol Ring. You may cast it. | Target creature you control becomes goaded. If you control no creatures, get fucked. | Players vote for the most annoying player this game; that player creates a loser role and attaches it to themselves (a player with a loser role is a loser).
 Tutor for a card, then each player votes on if that is a fair card to tutor for. If the vote passes or ties, keep it, otherwise shuffle it into your library. | Gain 1 life. | Until your next turn, narrate the game as if you were on Game Knights.
 Add 3 mana of any one colour to your mana pool. | Nothing happened? Ah well. | Each player votes for if a creature has drip. If that creature does have drip, the owner creates 2 treasure tokens.
-You and target opponent become lovers (You each draw 3 cards). | | 
+You and target opponent become lovers (You each draw 3 cards). | You cannot cast counterspells until your next turn. | 
 Return target card from your graveyard to your hand | | 
 Slime Against Humanity where X is the number of times this effect has happened this turn. |  |
 Swing (You must attack this turn), steal (steal a nonland permanent), plunder (sac a creature to draw two cards). |  |
-Create a Toy Boat token (3/3 with the funny). | You cannot cast counterspells until your next turn. | 
+Create a Toy Boat token (3/3 with the funny). | | 
 Put an uno reverse card into your hand: (0 Mana, Instant, Counter target counterspell) | 
