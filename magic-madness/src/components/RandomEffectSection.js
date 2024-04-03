@@ -17,7 +17,7 @@ const RandomEffectSection = () => {
 
   return (
     <div className='random-effect-container'>
-      <video src='/videos/effect_background_remastered.mp4' autoPlay loop muted />
+      <video src='https://sk1nnyb.github.io/magic-madness/videos/effect_background_remastered.mp4' autoPlay loop muted />
       <div class="box filter-box">
         <h3>Filters:</h3>
         <p>Coming soon...</p>
