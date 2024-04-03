@@ -15,13 +15,13 @@ function Cards() {
               src= { decksimg }
               text="Don't know what to play? Pick a random deck."
               label='Decks'
-              path='/decks'
+              path='/magic-madness/decks'
             />
             <CardItem
               src= { effectsimg }
               text='Feeling lucky? Generate random effects.'
               label='Random Effects'
-              path='/random-effect'
+              path='/magic-madness/random-effect'
             />
           </ul>
         </div>

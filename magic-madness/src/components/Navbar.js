@@ -13,7 +13,7 @@ function Navbar() {
     <>
       <nav className='navbar'>
         <div className='navbar-container'>
-          <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+          <Link to='/magic-madness' className='navbar-logo' onClick={closeMobileMenu}>
             MGC MDNS
           </Link>
           <div className='menu-icon' onClick={handleClick}>
@@ -22,7 +22,7 @@ function Navbar() {
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li className='nav-item'>
               <Link
-                to='/'
+                to='/magic-madness'
                 className='nav-links'
                 onClick={closeMobileMenu}>
                 Home
@@ -30,7 +30,7 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <Link
-                to='/decks'
+                to='/magic-madness/decks'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
@@ -39,7 +39,7 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <Link
-                to='/random-effect'
+                to='/magic-madness/random-effect'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
@@ -48,7 +48,7 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <Link
-                to='/mafia'
+                to='/magic-madness/mafia'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >

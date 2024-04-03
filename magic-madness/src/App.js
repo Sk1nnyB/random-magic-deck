@@ -13,10 +13,10 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route  path='/' exact element={<Home />} />
-          <Route  path='/decks' element={<Decks />} />
-          <Route  path='/random-effect' element={<RandomEffect/>} />
-          <Route  path='/mafia' element={<Mafia />} />
+          <Route  path='/magic-madness/' exact element={<Home />} />
+          <Route  path='/magic-madness/decks' element={<Decks />} />
+          <Route  path='/magic-madness/random-effect' element={<RandomEffect/>} />
+          <Route  path='/magic-madness/mafia' element={<Mafia />} />
           </Routes>
       </Router>
     </>
