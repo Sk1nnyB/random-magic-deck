@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/magic-madness/static/css/main.343c3182.css",
-    "main.js": "/magic-madness/static/js/main.f862e608.js",
+    "main.js": "/magic-madness/static/js/main.829b3c83.js",
     "static/media/decks.jpg": "/magic-madness/static/media/decks.c5ff7f857792bc8284ed.jpg",
     "static/media/toy-boat.jpg": "/magic-madness/static/media/toy-boat.12129626c701b9567152.jpg",
     "static/media/randomeffects.jpg": "/magic-madness/static/media/randomeffects.945dc32b093726f9e18e.jpg",
     "static/media/regrowth.jpg": "/magic-madness/static/media/regrowth.16a49ae646681cda5937.jpg",
     "static/media/black-lotus.jpg": "/magic-madness/static/media/black-lotus.de0a6bc2198529b38f0b.jpg",
     "static/media/tolarian-winds.jpg": "/magic-madness/static/media/tolarian-winds.2870f7bb08ddfd191ccb.jpg",
+    "static/media/furnace-of-rath.jpg": "/magic-madness/static/media/furnace-of-rath.1fec09a668440eb2b693.jpg",
     "static/media/bedlam.jpg": "/magic-madness/static/media/bedlam.d9b8c7e589388037902d.jpg",
     "static/media/mindslaver.jpg": "/magic-madness/static/media/mindslaver.e8ab85f2d4728e770392.jpg",
     "static/media/lightning-bolt.jpg": "/magic-madness/static/media/lightning-bolt.6b1561f3723d70667039.jpg",
     "static/media/phyrexian-arena.jpg": "/magic-madness/static/media/phyrexian-arena.9068e9a3f6d0d071549f.jpg",
+    "static/media/revive.jpg": "/magic-madness/static/media/revive.5190fcb44e05321d8456.jpg",
     "static/media/chaos-warp.jpg": "/magic-madness/static/media/chaos-warp.f50c4afd1e9245fd0c9e.jpg",
     "static/media/Tom-Mutinous-Mate.jpg": "/magic-madness/static/media/Tom-Mutinous-Mate.7e4441f830296ff341da.jpg",
     "static/media/cultivate.jpg": "/magic-madness/static/media/cultivate.65c17d290b64eeef11b0.jpg",
@@ -22,6 +24,8 @@
     "static/media/tibalt-the-fiend-blooded.jpg": "/magic-madness/static/media/tibalt-the-fiend-blooded.6dc11067e74a330fd9e3.jpg",
     "static/media/oko-thief-of-crowns.jpg": "/magic-madness/static/media/oko-thief-of-crowns.9d5f9e7a5c92f80115ac.jpg",
     "static/media/captive-audience.jpg": "/magic-madness/static/media/captive-audience.1141a308d4f136098eff.jpg",
+    "static/media/yurlok-of-scorch-thrash.jpg": "/magic-madness/static/media/yurlok-of-scorch-thrash.3431f9eca8baf1af8e6c.jpg",
+    "static/media/urza-academy-headmaster.jpg": "/magic-madness/static/media/urza-academy-headmaster.2a682fa639273679be51.jpg",
     "static/media/brainstorm.jpg": "/magic-madness/static/media/brainstorm.8563e02e1c0560f7fbb6.jpg",
     "static/media/karlach-fury-of-avernus.jpg": "/magic-madness/static/media/karlach-fury-of-avernus.b08b9bb95d4f2d35267d.jpg",
     "static/media/colossal-dreadmaw.jpg": "/magic-madness/static/media/colossal-dreadmaw.096b195bc27196f974e9.jpg",
@@ -31,18 +35,20 @@
     "static/media/silence.jpg": "/magic-madness/static/media/silence.d4f8d072b228acdfc983.jpg",
     "static/media/gamble.jpg": "/magic-madness/static/media/gamble.46c141e402dd3d3c1356.jpg",
     "static/media/treasure.jpg": "/magic-madness/static/media/treasure.8a4a3f67330275066b00.jpg",
+    "static/media/the-monarch.jpg": "/magic-madness/static/media/the-monarch.0e1b317e66e9a0fb0330.jpg",
     "static/media/island.jpg": "/magic-madness/static/media/island.63f8db334eff49403965.jpg",
     "static/media/wrath-of-god.jpg": "/magic-madness/static/media/wrath-of-god.0e80b4552be2fb768941.jpg",
+    "static/media/squee-the-immortal.jpg": "/magic-madness/static/media/squee-the-immortal.dbdb748df704de3718d5.jpg",
     "static/media/food.jpg": "/magic-madness/static/media/food.a5576a5526ce281f1d0e.jpg",
     "static/media/Uno-Reverse-Card.png": "/magic-madness/static/media/Uno-Reverse-Card.3eab7c4a88b7003d278c.png",
     "static/media/mafia.jpg": "/magic-madness/static/media/mafia.5511246c136bf210e829.jpg",
     "static/media/no-effect-card.jpg": "/magic-madness/static/media/no-effect-card.dea33939559ac0275fb7.jpg",
     "index.html": "/magic-madness/index.html",
     "main.343c3182.css.map": "/magic-madness/static/css/main.343c3182.css.map",
-    "main.f862e608.js.map": "/magic-madness/static/js/main.f862e608.js.map"
+    "main.829b3c83.js.map": "/magic-madness/static/js/main.829b3c83.js.map"
   },
   "entrypoints": [
     "static/css/main.343c3182.css",
-    "static/js/main.f862e608.js"
+    "static/js/main.829b3c83.js"
   ]
 }
