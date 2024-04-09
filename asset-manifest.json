@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/magic-madness/static/css/main.343c3182.css",
-    "main.js": "/magic-madness/static/js/main.829b3c83.js",
+    "main.js": "/magic-madness/static/js/main.04d24709.js",
     "static/media/decks.jpg": "/magic-madness/static/media/decks.c5ff7f857792bc8284ed.jpg",
+    "static/media/meteorite.jpg": "/magic-madness/static/media/meteorite.29b2e162c78583dc8b89.jpg",
     "static/media/toy-boat.jpg": "/magic-madness/static/media/toy-boat.12129626c701b9567152.jpg",
     "static/media/randomeffects.jpg": "/magic-madness/static/media/randomeffects.945dc32b093726f9e18e.jpg",
     "static/media/regrowth.jpg": "/magic-madness/static/media/regrowth.16a49ae646681cda5937.jpg",
@@ -10,6 +11,7 @@
     "static/media/tolarian-winds.jpg": "/magic-madness/static/media/tolarian-winds.2870f7bb08ddfd191ccb.jpg",
     "static/media/furnace-of-rath.jpg": "/magic-madness/static/media/furnace-of-rath.1fec09a668440eb2b693.jpg",
     "static/media/bedlam.jpg": "/magic-madness/static/media/bedlam.d9b8c7e589388037902d.jpg",
+    "static/media/donate.jpg": "/magic-madness/static/media/donate.25ca8abd0adf0fe2d44e.jpg",
     "static/media/mindslaver.jpg": "/magic-madness/static/media/mindslaver.e8ab85f2d4728e770392.jpg",
     "static/media/lightning-bolt.jpg": "/magic-madness/static/media/lightning-bolt.6b1561f3723d70667039.jpg",
     "static/media/phyrexian-arena.jpg": "/magic-madness/static/media/phyrexian-arena.9068e9a3f6d0d071549f.jpg",
@@ -28,11 +30,17 @@
     "static/media/urza-academy-headmaster.jpg": "/magic-madness/static/media/urza-academy-headmaster.2a682fa639273679be51.jpg",
     "static/media/brainstorm.jpg": "/magic-madness/static/media/brainstorm.8563e02e1c0560f7fbb6.jpg",
     "static/media/karlach-fury-of-avernus.jpg": "/magic-madness/static/media/karlach-fury-of-avernus.b08b9bb95d4f2d35267d.jpg",
+    "static/media/path-of-discovery.jpg": "/magic-madness/static/media/path-of-discovery.aebfc94bb37ee0166829.jpg",
+    "static/media/rest-in-peace.jpg": "/magic-madness/static/media/rest-in-peace.ed907166654f1bde1ad6.jpg",
     "static/media/colossal-dreadmaw.jpg": "/magic-madness/static/media/colossal-dreadmaw.096b195bc27196f974e9.jpg",
+    "static/media/thirst-for-knowledge.jpg": "/magic-madness/static/media/thirst-for-knowledge.ffb8442bd6916491e6aa.jpg",
     "static/media/secret-rendezvous.jpg": "/magic-madness/static/media/secret-rendezvous.bf4cab9d73cabb889767.jpg",
     "static/media/slime-against-humanity.jpg": "/magic-madness/static/media/slime-against-humanity.965fce17da573a71831e.jpg",
     "static/media/balance.jpg": "/magic-madness/static/media/balance.2d8ecc99e8048352d622.jpg",
+    "static/media/rewind.jpg": "/magic-madness/static/media/rewind.5a76f2ace2ed585bc02e.jpg",
+    "static/media/citys-blessing.jpg": "/magic-madness/static/media/citys-blessing.8156e29dd05c99013f3b.jpg",
     "static/media/silence.jpg": "/magic-madness/static/media/silence.d4f8d072b228acdfc983.jpg",
+    "static/media/roaming-throne.jpg": "/magic-madness/static/media/roaming-throne.ea48c2c7501a4a7eeda9.jpg",
     "static/media/gamble.jpg": "/magic-madness/static/media/gamble.46c141e402dd3d3c1356.jpg",
     "static/media/treasure.jpg": "/magic-madness/static/media/treasure.8a4a3f67330275066b00.jpg",
     "static/media/the-monarch.jpg": "/magic-madness/static/media/the-monarch.0e1b317e66e9a0fb0330.jpg",
@@ -45,10 +53,10 @@
     "static/media/no-effect-card.jpg": "/magic-madness/static/media/no-effect-card.dea33939559ac0275fb7.jpg",
     "index.html": "/magic-madness/index.html",
     "main.343c3182.css.map": "/magic-madness/static/css/main.343c3182.css.map",
-    "main.829b3c83.js.map": "/magic-madness/static/js/main.829b3c83.js.map"
+    "main.04d24709.js.map": "/magic-madness/static/js/main.04d24709.js.map"
   },
   "entrypoints": [
     "static/css/main.343c3182.css",
-    "static/js/main.829b3c83.js"
+    "static/js/main.04d24709.js"
   ]
 }
