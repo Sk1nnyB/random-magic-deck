@@ -5,12 +5,28 @@ import './RandomEffectSection.css';
 import effects from '../data/effects.js';
 import effectsimg from '../images/effects/no-effect-card.jpg'
 
+var last_nums = [];
+
 const RandomEffectSection = () => {
   const [randomEffect, setRandomString] = useState('');
   const [effectImage, setEffectImage] = useState(effectsimg);
 
   const generateRandomEffect= () => {
-    const randomIndex = Math.floor(Math.random() * effects.length);
+    var randomIndex = Math.floor(Math.random() * effects.length);
+    while (true) {
+      if (last_nums.indexOf(randomIndex) !== -1) {
+        randomIndex = Math.floor(Math.random() * effects.length);
+      } else {
+        if (last_nums.length < 15) {
+            last_nums.push(randomIndex);
+            break;
+        } else {
+            last_nums.shift();
+            last_nums.push(randomIndex);
+            break;
+        }
+      }
+    }
     setRandomString(effects[randomIndex].effect);
     setEffectImage(effects[randomIndex].image);
   };
