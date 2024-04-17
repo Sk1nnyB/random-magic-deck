@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/magic-madness/static/css/main.343c3182.css",
-    "main.js": "/magic-madness/static/js/main.04d24709.js",
+    "main.js": "/magic-madness/static/js/main.ecca5a67.js",
     "static/media/decks.jpg": "/magic-madness/static/media/decks.c5ff7f857792bc8284ed.jpg",
     "static/media/meteorite.jpg": "/magic-madness/static/media/meteorite.29b2e162c78583dc8b89.jpg",
     "static/media/toy-boat.jpg": "/magic-madness/static/media/toy-boat.12129626c701b9567152.jpg",
@@ -41,6 +41,7 @@
     "static/media/citys-blessing.jpg": "/magic-madness/static/media/citys-blessing.8156e29dd05c99013f3b.jpg",
     "static/media/silence.jpg": "/magic-madness/static/media/silence.d4f8d072b228acdfc983.jpg",
     "static/media/roaming-throne.jpg": "/magic-madness/static/media/roaming-throne.ea48c2c7501a4a7eeda9.jpg",
+    "static/media/a-mysterious-creature.jpg": "/magic-madness/static/media/a-mysterious-creature.7ed0de1f09e697faece2.jpg",
     "static/media/gamble.jpg": "/magic-madness/static/media/gamble.46c141e402dd3d3c1356.jpg",
     "static/media/treasure.jpg": "/magic-madness/static/media/treasure.8a4a3f67330275066b00.jpg",
     "static/media/the-monarch.jpg": "/magic-madness/static/media/the-monarch.0e1b317e66e9a0fb0330.jpg",
@@ -53,10 +54,10 @@
     "static/media/no-effect-card.jpg": "/magic-madness/static/media/no-effect-card.dea33939559ac0275fb7.jpg",
     "index.html": "/magic-madness/index.html",
     "main.343c3182.css.map": "/magic-madness/static/css/main.343c3182.css.map",
-    "main.04d24709.js.map": "/magic-madness/static/js/main.04d24709.js.map"
+    "main.ecca5a67.js.map": "/magic-madness/static/js/main.ecca5a67.js.map"
   },
   "entrypoints": [
     "static/css/main.343c3182.css",
-    "static/js/main.04d24709.js"
+    "static/js/main.ecca5a67.js"
   ]
 }
